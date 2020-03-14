@@ -11,7 +11,6 @@ def oxford_comma(array)
   fruit = 0
   array.size == 3 
   array.join(" , ") 
-  array[fruit] = "and" if array = -1
   
   
   
