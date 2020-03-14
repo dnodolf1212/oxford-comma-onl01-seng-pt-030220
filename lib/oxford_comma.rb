@@ -8,8 +8,11 @@ def oxford_comma(array)
 end
 
 def oxford_comma(array)
+  fruit = 0
   array.size == 3 
-  array.join(" , ")
+  array.join(" , ") 
+  array[fruit] = "and" if array = -1
+  
   
   
   end
